@@ -59,8 +59,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="482">
+              <caret line="37" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="19" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="e#123#171#0" expanded="true" />
@@ -368,7 +368,7 @@
       <workItem from="1520509094915" duration="125000" />
       <workItem from="1520509262682" duration="9413000" />
       <workItem from="1521097556813" duration="3280000" />
-      <workItem from="1521444488403" duration="4249000" />
+      <workItem from="1521444488403" duration="4440000" />
     </task>
     <task id="LOCAL-00001" summary="react">
       <created>1520845621536</created>
@@ -398,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521473783390</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="desctructuring">
+      <created>1521473902160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521473902160</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25268000" />
+    <option name="totallyTimeSpent" value="25459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -440,7 +447,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="react" />
-    <option name="LAST_COMMIT_MESSAGE" value="react" />
+    <MESSAGE value="desctructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="desctructuring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1090,8 +1098,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="482">
+          <caret line="37" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="e#123#171#0" expanded="true" />
